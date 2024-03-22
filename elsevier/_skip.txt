@@ -1,5 +1,8 @@
 # Require custom style:
 
+# 2024-03: https://github.com/citation-style-language/styles/pull/6968
+journal-of-pediatric-surgery
+
 # 2023-06: https://github.com/citation-style-language/styles/pull/6567
 energy-research-and-social-science
 
